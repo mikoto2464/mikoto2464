@@ -18,6 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-main&theme=tokyonight)](https://github.com/mikoto2464/pixiv-main)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-forward&theme=tokyonight)](https://github.com/mikoto2464/pixiv-forward)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-displayer&theme=tokyonight)](https://github.com/mikoto2464/pixiv-displayer)
 
 ## Mikoto-api
 
