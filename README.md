@@ -20,11 +20,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-engine&theme=tokyonight)](https://github.com/mikoto2464/pixiv-engine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-forward&theme=tokyonight)](https://github.com/mikoto2464/pixiv-forward)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-displayer&theme=tokyonight)](https://github.com/mikoto2464/pixiv-displayer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-api&theme=tokyonight)](https://github.com/mikoto2464/pixiv-api)
 
 ## Mikoto-api
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=http-api&theme=tokyonight)](https://github.com/mikoto2464/http-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=database-api&theme=tokyonight)](https://github.com/mikoto2464/database-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=log-api&theme=tokyonight)](https://github.com/mikoto2464/log-api)
 
 # Me
 
