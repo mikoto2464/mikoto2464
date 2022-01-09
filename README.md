@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.mikoto.net.cn" alt="logo" ><img src="http://file.mikoto.net.cn/icon.jpg" width="150" /></a>
+  <a href="https://www.mikoto.net.cn" alt="logo" ><img src="https://s4.ax1x.com/2022/01/09/7FAs29.jpg" width="150" /></a>
   <br><br>
   Welcome to my space!
   <br><br>
