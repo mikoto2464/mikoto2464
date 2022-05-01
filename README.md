@@ -5,6 +5,8 @@
   Welcome to my space!
   <br><br>
   
+  [![wakatime](https://wakatime.com/badge/user/1881dd28-2018-456f-8c50-e897127472e4.svg)](https://wakatime.com/@1881dd28-2018-456f-8c50-e897127472e4)
+  
   ![Java](https://img.shields.io/badge/Java-blue?style=plastic&logoColor=FFFFFF&logo=java&color=3776AB)
   ![Python](https://img.shields.io/badge/Python-blue?style=plastic&logoColor=FFFFFF&logo=python&color=3776AB)
   ![PHP](https://img.shields.io/badge/PHP-blue?style=plastic&logoColor=FFFFFF&logo=php&color=777BB4)
