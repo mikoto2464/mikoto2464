@@ -27,12 +27,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-database&theme=tokyonight)](https://github.com/mikoto2464/pixiv-database)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-central&theme=tokyonight)](https://github.com/mikoto2464/pixiv-central)
 
-## Mikoto-api
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=http-api&theme=tokyonight)](https://github.com/mikoto2464/http-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=database-api&theme=tokyonight)](https://github.com/mikoto2464/database-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=log-api&theme=tokyonight)](https://github.com/mikoto2464/log-api)
-
 # Me
 
 - 👋 Hi, I’m [@mikoto2464](https://github.com/mikoto2464)
