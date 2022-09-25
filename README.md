@@ -30,8 +30,8 @@
 # Me
 
 - 👋 Hi, I’m [@mikoto2464](https://github.com/mikoto2464)
-- 👀 I’m interested in **Java** / **Python** / **C++**
-- 🌱 I’m currently learning **C++**
+- 👀 I’m interested in **Java** / **Python**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me : <https://www.mikoto.net.cn>
 
 ## stats
