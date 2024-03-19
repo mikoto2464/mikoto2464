@@ -11,17 +11,6 @@
   ![Python](https://img.shields.io/badge/Python-blue?style=plastic&logoColor=FFFFFF&logo=python&color=3776AB)
 </h1>
 
-## Mikoto-pixiv
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-main&theme=tokyonight)](https://github.com/mikoto2464/pixiv-main)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-engine&theme=tokyonight)](https://github.com/mikoto2464/pixiv-engine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-forward&theme=tokyonight)](https://github.com/mikoto2464/pixiv-forward)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-displayer&theme=tokyonight)](https://github.com/mikoto2464/pixiv-displayer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=jpbc-mirai-plugin&theme=tokyonight)](https://github.com/mikoto2464/jpbc-mirai-plugin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-web&theme=tokyonight)](https://github.com/mikoto2464/pixiv-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-database&theme=tokyonight)](https://github.com/mikoto2464/pixiv-database)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikoto2464&repo=pixiv-central&theme=tokyonight)](https://github.com/mikoto2464/pixiv-central)
-
 # Me
 
 - 👋 Hi, I’m [@mikoto2464](https://github.com/mikoto2464)
