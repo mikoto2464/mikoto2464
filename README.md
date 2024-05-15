@@ -6,7 +6,7 @@
   <br><br>
   
   [![wakatime](https://wakatime.com/badge/user/1881dd28-2018-456f-8c50-e897127472e4.svg)](https://wakatime.com/@1881dd28-2018-456f-8c50-e897127472e4)
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mikoto2464.visitor-badge&format=true)
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mikoto2464.visitor-badge)
   ![Java](https://img.shields.io/badge/Java-blue?style=plastic&logoColor=FFFFFF&logo=java&color=3776AB)
   ![Python](https://img.shields.io/badge/Python-blue?style=plastic&logoColor=FFFFFF&logo=python&color=3776AB)
 </h1>
