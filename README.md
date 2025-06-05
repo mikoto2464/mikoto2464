@@ -22,8 +22,6 @@
 # Me
 
 - 👋 Hi, I’m [@mikoto2464](https://github.com/mikoto2464)
-- 👀 I’m interested in **Java** / **Python**
-- 🌱 I’m currently learning **Java**
 - 📫 How to reach me : misaka.mikoto2464@gmail.com
 
 ## stats
