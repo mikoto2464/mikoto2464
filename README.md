@@ -19,10 +19,5 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 <br><br>
 
-# Me
-
-- 👋 Hi, I’m [@mikoto2464](https://github.com/mikoto2464)
-- 📫 How to reach me : misaka.mikoto2464@gmail.com
-
-## stats
+## Stats
 ![mikoto2464's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikoto2464&theme=tokyonight&hide_border=false)
