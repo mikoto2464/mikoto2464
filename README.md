@@ -26,5 +26,3 @@
 
 ## stats
 ![mikoto2464's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikoto2464&theme=tokyonight&hide_border=false)
-<br>
-![mikoto2464's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoto2464&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
