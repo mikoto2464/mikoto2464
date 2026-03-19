@@ -21,4 +21,4 @@
 <br><br>
 
 ## Stats
-![mikoto2464's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikoto2464&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikoto2464&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
