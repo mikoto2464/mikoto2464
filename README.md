@@ -21,4 +21,6 @@
 <br><br>
 
 ## Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=mikoto2464&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
