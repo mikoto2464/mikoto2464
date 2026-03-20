@@ -12,4 +12,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #SHOW_PROJECTS: False
-          WAKATIME_API_URL: "https://wakapi.dev/api"
+          #WAKATIME_API_URL: "https://wakapi.dev/api"
