@@ -22,14 +22,74 @@
 
 ## Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2059%20mins-blue?style=flat)
 
-```txt
-Rust         0 hrs 18 mins         ███████████████▓░░░░░░░░░   62.74 %
-TOML         0 hrs 7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-Python       0 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Powershell   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 171 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+🌆 Daytime                63 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Evening                36 commits          ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+🌙 Night                  36 commits          ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Wednesday                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Friday                   41 commits          ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Sunday                   32 commits          █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mikoto2464/mikoto2464/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/03/2026 09:05:44 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mikoto2464&theme=tokyonight&hide_border=true)
