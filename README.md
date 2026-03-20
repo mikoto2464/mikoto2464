@@ -22,14 +22,6 @@
 
 ## Stats
 <!--START_SECTION:waka-->
-
-```txt
-Rust         0 hrs 18 mins         ███████████████▓░░░░░░░░░   62.74 %
-TOML         0 hrs 7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-Python       0 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Powershell   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mikoto2464&theme=tokyonight&hide_border=true)
